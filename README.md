@@ -2,7 +2,7 @@
 A simple algorithm exercise in javascript to find a text pattern in an array of strings
 
 ## Purpose
-My girlfriend got this exercise (see (PDF)[https://github.com/xavierspr/ImagePatternFinder/blob/main/Recherche%20de%20pattern.pdf] in french) for a job interview and I wanted to solve it, for fun.
+My girlfriend got this exercise (see [PDF](https://github.com/xavierspr/ImagePatternFinder/blob/main/Recherche%20de%20pattern.pdf) in french) for a job interview and I wanted to solve it, for fun.
 Basically, in an "image" in the form of an array of strings and a pattern, in the same form, your function must be able to return the coordinates of the pattern if it is present in the image or [-1,-1] if not.
 
 ## Assumptions
